@@ -1,8 +1,8 @@
 /*
  * @author Ahmad Wahedi
  * CSC 201-004N
- * Assignment 4.8
- * Problem 9.4
+ * Assignment 4
+ * Problem 4.8
 (Find the character of an ASCII code) Write a program that receives an ASCII code
 (an integer between 0 and 127) and displays its character.
 */
